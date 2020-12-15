@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="72659" started-at="2020-10-20T08:44:36Z" finished-at="2020-10-20T08:45:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="72659" started-at="2020-10-20T08:44:36Z" finished-at="2020-10-20T08:45:48Z">
+      <class name="com.crm.qa.test.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.test.HomePageTest@1bce4f0a]" name="setUp" is-config="true" duration-ms="23920" started-at="2020-10-20T08:44:36Z" finished-at="2020-10-20T08:45:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tittleTest()[pri:1, instance:com.crm.qa.test.HomePageTest@1bce4f0a]" name="tittleTest" duration-ms="30370" started-at="2020-10-20T08:45:00Z" finished-at="2020-10-20T08:45:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tittleTest -->
+        <test-method status="PASS" signature="createPostTest()[pri:2, instance:com.crm.qa.test.HomePageTest@1bce4f0a]" name="createPostTest" duration-ms="88" started-at="2020-10-20T08:45:30Z" finished-at="2020-10-20T08:45:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPostTest -->
+        <test-method status="PASS" signature="messengerPageTest()[pri:3, instance:com.crm.qa.test.HomePageTest@1bce4f0a]" name="messengerPageTest" duration-ms="11974" started-at="2020-10-20T08:45:30Z" finished-at="2020-10-20T08:45:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- messengerPageTest -->
+        <test-method status="PASS" signature="userPageTest()[pri:4, instance:com.crm.qa.test.HomePageTest@1bce4f0a]" name="userPageTest" duration-ms="5884" started-at="2020-10-20T08:45:42Z" finished-at="2020-10-20T08:45:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.test.HomePageTest@1bce4f0a]" name="tearDown" is-config="true" duration-ms="376" started-at="2020-10-20T08:45:48Z" finished-at="2020-10-20T08:45:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.test.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
